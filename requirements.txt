@@ -1,0 +1,11 @@
+fastapi
+peft
+pydantic
+python-dotenv
+qdrant-client
+sentence-transformers
+torch
+transformers
+uvicorn
+sentencepiece
+bitsandbytes

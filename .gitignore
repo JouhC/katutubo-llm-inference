@@ -1,0 +1,60 @@
+
+katutubo-llm-alpaca-reddit-tuned/*
+
+# Byte-compiled / cached / virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+.venv/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Test output
+coverage/
+htmlcov/
+.tox/
+
+# Secrets and config
+.env
+*.pem
+*.key
+
+# Node projects
+node_modules/
+npm-debug.log
+
+# Compiled C/C++
+*.o
+*.out
+*.exe
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Git-related
+*.orig
